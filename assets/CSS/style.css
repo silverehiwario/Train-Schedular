@@ -1,0 +1,33 @@
+h1{
+	text-align: center;
+	padding-top: -10px;
+	font-family: 'Metal Mania', cursive;
+
+}
+
+#sub{
+	text-align: center;
+}
+
+header{
+	background-color: #7B241C;
+	color: #fff;
+	height: 150px;
+	margin-bottom: 20px;
+	margin-left: -14px;
+	margin-right: -14px;
+
+}
+
+#up, #down, #ups{
+	background-color: #52BE80;
+}
+ body{
+ 	background-image: url(https://image.kkday.com/image/get/s1.kkday.com/product_2700/20170309102156_70ia8/jpeg);
+ }
+
+ h3, h4{
+ 	font-size: 30px;
+ 	font-family: 'Metal Mania', cursive;
+
+ }
